@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Rodney Solomon Jr Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsolomonjr/portfolio.git"
+  },
+  "author": "Rodney Solomon Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsolomonjr/portfolio/issues"
+  },
+  "homepage": "https://github.com/rsolomonjr/portfolio#readme"
+}
